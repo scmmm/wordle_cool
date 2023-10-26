@@ -189,7 +189,7 @@ while(1):
             print('当前建议猜测的单词')
             advice_word()
             tmpstr=[]
-            printf('当前可能的单词')
+            print('当前可能的单词')
             guess_word()
     elif (a==2):
         break
