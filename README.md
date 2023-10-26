@@ -1,4 +1,10 @@
-# do not cheat
+# 程序怎么运行的
+
+## 输入
+
+每次输入一个单词以及一个仅包含 `012` 的序列，对应顺序可以看下面的demo
+
+然后程序会返回不超过 30 个建议你扩大猜测范围的单词以及不超过 30 个可能的正确答案
 
 # DEMO
 
@@ -78,7 +84,8 @@ conjugality
 
  本程序用猜测wordle要的单词，还不够完善，但是够用了，以后有空再更新
 
- this code is just for fun
+## this code is just for fun
+## DO NOT CHEAT
 
 # 因为此程序产生的法律后果概不负责
 
